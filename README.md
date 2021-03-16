@@ -8,3 +8,10 @@ The easiest way to try it out is by running:
 gcc -o cpuid cpuid.s
 ./cpuid
 ```
+
+On Ubuntu/Linux:
+
+```sh
+gcc -o cpuid cpuid.ubuntu.s
+./cpuid
+```
